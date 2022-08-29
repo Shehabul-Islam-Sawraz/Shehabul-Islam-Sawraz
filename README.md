@@ -17,8 +17,9 @@ I'm Shehabul Islam Sawraz, currenly a Junior (Level-3) Year Computer Science and
 
 ## Connect with me
 
-[<img align="left" alt="Shehabul Islam Sawraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br>
+[<img align="left" alt="Shehabul Islam Sawraz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] 
+[<img align="left" alt="Shehabul Islam Sawraz | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<br/>
 
 ## 🛠️ ***My Tech***
 
@@ -30,7 +31,7 @@ I'm Shehabul Islam Sawraz, currenly a Junior (Level-3) Year Computer Science and
 
 <img src="https://img.shields.io/badge/Environment-151515?logo=Authy&style=for-the-badge&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/-Android-151515?style=for-the-badge&logo=android)![badge-intellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-151515?style=for-the-badge&logo=intellij%20idea&logoColor=3184c4)<br/>
 
-<img src="https://img.shields.io/badge/Designing-151515?logo=When I Work&style=for-the-badge&logoColor=FFFFFF">![MS Word](https://img.shields.io/badge/-MS%20Word-151515?style=for-the-badge&logo=microsoft%20word&logoColor=00a1f1)![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-151515?style=for-the-badge&logo=microsoft%20powerpoint&logoColor=D04423)![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-151515?style=for-the-badge&logo=adobe%20photoshop)![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-151515?style=for-the-badge&logo=adobe%20illustrator)<br/>
+<img src="https://img.shields.io/badge/Designing-151515?logo=When I Work&style=for-the-badge&logoColor=FFFFFF">![MS Word](https://img.shields.io/badge/-MS%20Word-151515?style=for-the-badge&logo=microsoft%20word&logoColor=00a1f1)![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-151515?style=for-the-badge&logo=microsoft%20powerpoint&logoColor=D04423)![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-151515?style=for-the-badge&logo=adobe%20photoshop)![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-151515?style=for-the-badge&logo=adobe%20illustrator)![Latex](https://img.shields.io/badge/-Latex-151515?style=for-the-badge&logo=latex&logoColor=5D8AA8)<br/>
 
 ![dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
@@ -55,4 +56,5 @@ I'm Shehabul Islam Sawraz, currenly a Junior (Level-3) Year Computer Science and
 
 
 [facebook]: https://www.facebook.com/shehabul.islam.sawraz
+[github]: https://github.com/Shehabul-Islam-Sawraz
 
