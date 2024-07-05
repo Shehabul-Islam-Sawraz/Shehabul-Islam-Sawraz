@@ -6,14 +6,14 @@
 
 ### Assalamu Alaikum good people 👋
 
-I'm Shehabul Islam Sawraz, currenly a Junior (Level-3) Year Computer Science and Engineering Undergraduate Student, from Bangladesh University of Engineering and Technology(BUET). I am mostly interested in Cyber Security, specially in Network Protocol Analyzing, Reverse Engineering & Cryptography.
+I'm Shehabul Islam Sawraz, a Computer Science and Engineering Graduate Student, from Bangladesh University of Engineering and Technology(BUET). I am mostly interested in Reverse Engineering, Cryptography, Forensics, Android App Development and Web Front-end & Back-end Development.
 
-- 🔭 I’m currently working on ***Penetration Testing***, ***Android App Development*** and ***Django Rest Framework***
+- 🔭 I’m currently working on ***Penetration Testing***, ***Android App Development*** and ***Express.js Framework***
 - 🌱 I’m currently learning ***Reverse Engineering*** & ***Web Exploitation***
 - 💼 I'm currently looking for part time ***Software Engineering*** or ***Cyber Security Research*** opportunities
 - 👯 Open for collaboration on ***CS Research Project*** and ***Open Source Development project***
 - ⚡ Fun Fact : I love ***teaching*** and ***travelling***
-- 💬 Ask me about anything related to my work that interests you. Reach me via [***gmail***](mailto:atiq115577@gmail.com) 📫 and if you're tired of professionalism there's always [***messenger***](https://m.me/shehabul.islam.sawraz) 📟
+- 💬 Ask me about anything related to my work that interests you. Reach me via [***gmail***](mailto:shehabulislamsawraz@gmail.com) 📫 and if you're tired of professionalism there's always [***messenger***](https://m.me/shehabul.islam.sawraz) 📟
 
 ## Connect with me
 
